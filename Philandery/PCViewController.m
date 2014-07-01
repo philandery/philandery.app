@@ -8,22 +8,21 @@
 
 #import "PCViewController.h"
 
-@interface PCViewController ()
-
-@end
-
 @implementation PCViewController
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+
+    UILabel *deviceLabel = [[UILabel alloc] init];
+    deviceLabel.text = [self deviceId];
+    [self.view addSubview:deviceLabel];
+    [deviceLabel alignCenterWithView:self.view];
 }
 
-- (void)didReceiveMemoryWarning
+- (NSString *)deviceId
 {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    return [Identify deviceId];
 }
 
 @end

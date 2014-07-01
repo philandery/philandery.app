@@ -4,21 +4,27 @@ PODS:
     - Expecta
     - FBSnapshotTestCase
   - FBSnapshotTestCase (1.1)
+  - FLKAutoLayout (0.1.1)
   - Identify (0.1.1)
+  - OCMock (2.2.4)
   - Specta (0.2.1)
 
 DEPENDENCIES:
   - Expecta (= 0.3.0)
   - EXPMatchers+FBSnapshotTest (= 1.1.0)
   - FBSnapshotTestCase (= 1.1)
+  - FLKAutoLayout (= 0.1.1)
   - Identify (= 0.1.1)
+  - OCMock (= 2.2.4)
   - Specta (= 0.2.1)
 
 SPEC CHECKSUMS:
   Expecta: ce8a51b9fad15a2cd573b291cb2909aaed865350
   EXPMatchers+FBSnapshotTest: fcc428d6a5d4410c1711aeda4456c9c5e93f98d3
   FBSnapshotTestCase: 9053afee1d66b4c7c313fcb0ae582a5e47bea9d0
+  FLKAutoLayout: 9fa39aac2903b274fbeed6be74154cdb937a04fc
   Identify: 59156213aca9926aefd346483ec8a8d5e032d707
+  OCMock: 6db79185520e24f9f299548f2b8b07e41d881bd5
   Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
 
 COCOAPODS: 0.33.1
