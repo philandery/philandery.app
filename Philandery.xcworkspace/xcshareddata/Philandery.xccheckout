@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7AAE8540-2592-48D3-8C17-B4F3AF73C737</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Philandery</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CE74FC50-219C-45DD-A391-A7034490A21A</key>
+		<string>ssh://philandery.github.com/philandery/philandery.app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Philandery.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CE74FC50-219C-45DD-A391-A7034490A21A</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://philandery.github.com/philandery/philandery.app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CE74FC50-219C-45DD-A391-A7034490A21A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CE74FC50-219C-45DD-A391-A7034490A21A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>philanderyapp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

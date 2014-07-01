@@ -1,0 +1,25 @@
+//
+//  PhilanderyTests-Prefix.pch
+//  Philandery
+//
+//  Created by Philandery Andery on 7/1/2014.
+//  Copyright (c) 2014 Philandery.app. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#define EXP_SHORTHAND
+#include <Specta/Specta.h>
+#include <Expecta/Expecta.h>
+#include <EXPMatchers+FBSnapshotTest/EXPMatchers+FBSnapshotTest.h>
+
+#endif
