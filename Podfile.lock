@@ -6,7 +6,46 @@ PODS:
   - FBSnapshotTestCase (1.1)
   - FLKAutoLayout (0.1.1)
   - Identify (0.1.1)
+  - libextobjc (0.4):
+    - libextobjc/EXTADT
+    - libextobjc/EXTConcreteProtocol
+    - libextobjc/EXTKeyPathCoding
+    - libextobjc/EXTNil
+    - libextobjc/EXTSafeCategory
+    - libextobjc/EXTScope
+    - libextobjc/EXTSelectorChecking
+    - libextobjc/EXTSynthesize
+    - libextobjc/NSInvocation+EXT
+    - libextobjc/NSMethodSignature+EXT
+    - libextobjc/RuntimeExtensions
+    - libextobjc/UmbrellaHeader
+  - libextobjc/EXTADT (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTConcreteProtocol (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTKeyPathCoding (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTNil (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSafeCategory (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTScope (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSelectorChecking (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSynthesize (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/NSInvocation+EXT (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/NSMethodSignature+EXT (0.4):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/RuntimeExtensions (0.4)
+  - libextobjc/UmbrellaHeader (0.4)
+  - MagicalRecord (2.2):
+    - MagicalRecord/Core
+  - MagicalRecord/Core (2.2)
   - OCMock (2.2.4)
+  - RHAddressBook (1.1.1)
   - Specta (0.2.1)
 
 DEPENDENCIES:
@@ -15,7 +54,10 @@ DEPENDENCIES:
   - FBSnapshotTestCase (= 1.1)
   - FLKAutoLayout (= 0.1.1)
   - Identify (= 0.1.1)
+  - libextobjc (= 0.4)
+  - MagicalRecord (= 2.2)
   - OCMock (= 2.2.4)
+  - RHAddressBook (= 1.1.1)
   - Specta (= 0.2.1)
 
 SPEC CHECKSUMS:
@@ -24,7 +66,10 @@ SPEC CHECKSUMS:
   FBSnapshotTestCase: 9053afee1d66b4c7c313fcb0ae582a5e47bea9d0
   FLKAutoLayout: 9fa39aac2903b274fbeed6be74154cdb937a04fc
   Identify: 59156213aca9926aefd346483ec8a8d5e032d707
+  libextobjc: ba42e4111f433273a886cd54f0ddaddb7f62f82f
+  MagicalRecord: 2b471584fc9e3137f3d0a56967917baa4979e224
   OCMock: 6db79185520e24f9f299548f2b8b07e41d881bd5
+  RHAddressBook: 0cad9d33b9494d1e28323b62e5c7afc109cc4294
   Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
 
 COCOAPODS: 0.33.1

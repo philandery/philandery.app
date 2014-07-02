@@ -7,6 +7,11 @@
 #ifdef __OBJC__
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
+#import <CoreData/CoreData.h>
 #import <Identify/Identify.h>
 #import <FLKAutoLayout/UIView+FLKAutoLayout.h>
+#define MR_SHORTHAND
+#import <MagicalRecord/CoreData+MagicalRecord.h>
+#import <RHAddressBook/AddressBook.h>
+#import <libextobjc/EXTScope.h>
 #endif

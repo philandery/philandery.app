@@ -9,7 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface PCAppDelegate : UIResponder <UIApplicationDelegate>
-
 @property (strong, nonatomic) UIWindow *window;
-
+@property (strong, nonatomic) UIViewController *viewController;
 @end

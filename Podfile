@@ -2,6 +2,9 @@ platform :ios, '7.0'
 
 pod 'Identify', '0.1.1'
 pod 'FLKAutoLayout', '0.1.1'
+pod 'MagicalRecord', '2.2'
+pod 'RHAddressBook', '1.1.1'
+pod 'libextobjc', '0.4'
 
 target 'PhilanderyTests', exclusive: true do
   pod 'Specta', '0.2.1'
